@@ -1,0 +1,51 @@
+{
+  "id": "eng-g5-u1-l1",
+  "title": "The Life of a Honeybee",
+  "subjectId": "english",
+  "grade": 5,
+  "unit": "Nature & Science",
+  "readingText": "Honeybees are incredible insects that live in large groups called colonies. Every bee has a special job. The Queen bee lays all the eggs, while the worker bees collect nectar from flowers to make honey. They communicate with each other using a special 'waggle dance' to show where the best flowers are.",
+  "translation": "نحل العسل حشرات رائعة تعيش في مجموعات كبيرة تسمى مستعمرات. كل نحلة لها وظيفة خاصة. تضع ملكة النحل كل البيض، بينما يجمع النحل العامل الرحيق من الزهور لصنع العسل. يتواصلون مع بعضهم البعض باستخدام 'رقصة الاهتزاز' الخاصة لإظهار مكان أفضل الزهور.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "MCQ",
+      "question": "What is a group of bees called?",
+      "options": ["A pack", "A colony", "A school", "A herd"],
+      "correctAnswer": 1,
+      "feedback": {
+        "en": "Correct! Bees live in colonies of thousands of members.",
+        "ar": "صحيح! يعيش النحل في مستعمرات تضم آلاف الأعضاء."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "FILL_BLANKS",
+      "text": "The ______ bee is responsible for laying eggs, while ______ bees collect nectar.",
+      "answers": ["Queen", "worker"],
+      "feedback": {
+        "en": "The Queen lays eggs and workers do the outside chores.",
+        "ar": "الملكة تضع البيض والعمال يقومون بالأعمال الخارجية."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "MATCHING",
+      "question": "Match the bee type with its job:",
+      "pairs": [
+        {
+          "left": { "text": "Queen", "image": "https://cdn-icons-png.flaticon.com/512/2322/2322761.png" },
+          "right": { "text": "Lays Eggs" }
+        },
+        {
+          "left": { "text": "Worker", "image": "https://cdn-icons-png.flaticon.com/512/3105/3105807.png" },
+          "right": { "text": "Collects Nectar" }
+        },
+        {
+          "left": { "text": "Dance", "image": "https://cdn-icons-png.flaticon.com/512/1048/1048953.png" },
+          "right": { "text": "Communication" }
+        }
+      ]
+    }
+  ]
+}
